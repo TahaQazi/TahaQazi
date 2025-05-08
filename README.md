@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @TahaQazi
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning how to work on Full Stack Development
+- 🌱 I’m currently Making an App for an EverythingList
+- 
 - 📫 How to reach me tahaqazis@gmail.com
 
 <!---
